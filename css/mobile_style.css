@@ -1,0 +1,68 @@
+.nav-bar {
+    flex-direction: column;
+}
+
+.main-nav {
+    justify-content: center;
+}
+
+.reg {
+    justify-content: center;
+}
+
+.ser .container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.ser .service-card {
+    width: 80%;
+    
+}
+
+.ser .service-card .box {
+    padding: 10px;
+}
+
+.main-abt .container {
+    flex-direction: column;
+}
+
+.abt-button {
+    margin-bottom: 30px;
+}
+
+.abt-img-container {
+    width: 100%;
+    
+    margin-bottom: 20px;
+    border-bottom: white 2px solid;
+}
+
+.building {
+    height: 200px;
+}
+
+.abt-content {
+    width: 100%;
+    text-align: center;
+}
+
+
+.footer-div {
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-bottom: white 2px solid ;
+}
+
+.footer-div-last {
+    text-align: center;
+}
+
+
+.abt-content p {
+    padding: 20px;
+    border-bottom: white 2px solid;
+}
